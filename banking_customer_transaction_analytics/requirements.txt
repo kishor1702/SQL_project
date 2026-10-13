@@ -1,0 +1,7 @@
+# No Python dependencies are required for the PostgreSQL SQL analysis.
+
+Recommended tools:
+- PostgreSQL 15+
+- pgAdmin 4 or DBeaver
+- DuckDB (only for converting source Parquet files to CSV)
+- Git / GitHub
